@@ -353,6 +353,10 @@ ParamVariation3=ParameterName=Value|VariantValue=10k
 ParamDesignator3=R3
 ParamVariationCount=3
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for tsac-distribution\Design Rule Check - tsac-distribution.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=BoardName
 Value=tsac-distribution-board
