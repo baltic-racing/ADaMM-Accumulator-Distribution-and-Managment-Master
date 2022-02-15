@@ -21,7 +21,7 @@ UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
-NameNetsHierarchically=0
+NameNetsHierarchically=1
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=0
@@ -375,16 +375,16 @@ DocumentPath=Project Outputs for tsac-distribution\Design Rule Check - tsac-dist
 DItemRevisionGUID=
 
 [Parameter1]
-Name=BoardName
-Value=tsac-distribution-board
+Name=Organization
+Value=Baltic Racing
 
 [Parameter2]
 Name=BoardRevision
 Value=1.0
 
 [Parameter3]
-Name=Organization
-Value=Baltic Racing
+Name=BoardName
+Value=tsac-distribution-board
 
 [Configuration1]
 Name=Sources
