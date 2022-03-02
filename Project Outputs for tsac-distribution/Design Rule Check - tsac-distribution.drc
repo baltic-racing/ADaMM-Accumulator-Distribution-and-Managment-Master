@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Date     : 16.02.2022
-Time     : 23:58:22
+Date     : 02.03.2022
+Time     : 14:37:46
 
 Processing Rule : Clearance Constraint (Gap=3mm) (InNetClass('HV_LTC')),(NOT InNetClass('HV_LTC') AND InAnyNet)
 Rule Violations :0

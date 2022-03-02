@@ -319,23 +319,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
-DocumentPath=..\..\AppData\Local\Temp\Revisions\[Revision 4f5ac4bff5c37222c5ce1a12060b568b0300ae85] tsac-distribution.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [ProjectVariant1]
 UniqueID=BAC146B4-F5DD-4FB2-8B78-B2A1868831A1
 Description=IMD_HS
@@ -375,16 +358,16 @@ DocumentPath=Project Outputs for tsac-distribution\Design Rule Check - tsac-dist
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Organization
-Value=Baltic Racing
+Name=BoardName
+Value=tsac-distribution-board
 
 [Parameter2]
 Name=BoardRevision
 Value=1.0
 
 [Parameter3]
-Name=BoardName
-Value=tsac-distribution-board
+Name=Organization
+Value=Baltic Racing
 
 [Configuration1]
 Name=Sources
