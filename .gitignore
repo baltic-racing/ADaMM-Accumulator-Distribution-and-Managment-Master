@@ -13,3 +13,23 @@ Makefile
 History/*
 Project Logs*
 __Previews*
+*.APR_LIB
+*.apr
+*.DRR
+*.EXTREP
+*.G1
+*.G2
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.LDP
+*.REP
+*.RUL
+gerbers/JLC_GERBERS/tsac-distribution.TXT
+gerbers/Status Report.Txt
