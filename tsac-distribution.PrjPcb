@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for tsac-distribution
 LogFolderPath=
 ManagedProjectGUID=
 Template=C:\Users\leonl\repos\Altium_BR\templates\BR-Template.PrjPcb
@@ -321,6 +321,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document17]
+DocumentPath=tsac-distribution.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=BAC146B4-F5DD-4FB2-8B78-B2A1868831A1
 Description=IMD_HS
@@ -360,142 +377,74 @@ DocumentPath=Project Outputs for tsac-distribution\Design Rule Check - tsac-dist
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.G1
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.G2
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.G2
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument6]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument7]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument8]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument9]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GD1
+[GeneratedDocument10]
+DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GG1
+[GeneratedDocument11]
+DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GM42
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument12]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument13]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument14]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument15]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument16]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.REP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument17]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.REP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument18]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=.\gerbers\JLC_GERBERS\tsac-distribution.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument19]
 DocumentPath=gerbers\JLC_GERBERS\tsac-distribution.TXT
 DItemRevisionGUID=
 
@@ -522,7 +471,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_SmartPDF]
-AutoOpenFile=0
+AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
@@ -555,10 +504,10 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=0
+SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for tsac-distribution
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -665,22 +614,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Universal Printing PCL 6
+TargetPrinter=A3 Drucker
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1518,37 +1457,21 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Us
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration_Name1=OutputConfigurationParameter1
-Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name2=OutputConfigurationParameter2
-Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name3=OutputConfigurationParameter3
-Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name4=OutputConfigurationParameter4
-Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name5=OutputConfigurationParameter5
-Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name6=OutputConfigurationParameter6
-Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name7=OutputConfigurationParameter7
-Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name8=OutputConfigurationParameter8
-Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 Configuration_Name9=OutputConfigurationParameter9
-Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name10=OutputConfigurationParameter10
-Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name11=OutputConfigurationParameter11
-Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name12=OutputConfigurationParameter12
-Configuration_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name13=OutputConfigurationParameter13
-Configuration_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical6|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name14=OutputConfigurationParameter14
-Configuration_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical8|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name15=OutputConfigurationParameter15
-Configuration_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical11|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name16=OutputConfigurationParameter16
-Configuration_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
-Configuration_Name17=OutputConfigurationParameter17
-Configuration_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\leonl\repos\DISTRITSAC_PCB\tsac-distribution.PcbDoc
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical42|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\04 - HV_Distri_TSAC\DISTRITSAC_PCB\tsac-distribution.PcbDoc
 
